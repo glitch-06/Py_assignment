@@ -8,3 +8,5 @@ myset.add(23)
 print(myset)
 
 {'d2', 'd1', 22, 23, 56.7}
+
+#Set is mutable
